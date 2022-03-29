@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Arin's github stats](https://github-readme-stats.vercel.app/api?username=ArinFaraj)
-
+![Arin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArinFaraj&theme=prussian&show_icons=true)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry&bgColor=%23172F45)
 <!--
 **ArinFaraj/ArinFaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
