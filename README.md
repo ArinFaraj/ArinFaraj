@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![Status for @ArinFaraj](https://badge.stateful.com/ArinFaraj/status.svg)](https://app.stateful.com/@ArinFaraj)
-[![Status for @ArinFaraj](https://badge.stateful.com/ArinFaraj/dnd.svg)](https://app.stateful.com/@ArinFaraj)
 
 ![Arin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArinFaraj&theme=prussian&show_icons=true)
 ###
