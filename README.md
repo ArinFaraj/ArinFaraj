@@ -3,7 +3,6 @@
 [![Status for @ArinFaraj](https://badge.stateful.com/ArinFaraj/status.svg)](https://app.stateful.com/@ArinFaraj) 
 [![](https://visitcount.itsvg.in/api?id=arinfaraj&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
-![Arin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArinFaraj&theme=prussian&show_icons=true)
 ###
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry&bgColor=%23172F45)
 
