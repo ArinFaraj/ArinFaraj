@@ -1,6 +1,5 @@
-
-
-[![Status for @ArinFaraj](https://badge.stateful.com/ArinFaraj/status.svg)](https://app.stateful.com/@ArinFaraj) 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 [![](https://visitcount.itsvg.in/api?id=arinfaraj&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ###
