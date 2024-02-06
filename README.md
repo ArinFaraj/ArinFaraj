@@ -1,11 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-863%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-874%20hrs%2012%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 80 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,9 +38,9 @@ Sunday                   1354 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Baghdad
 
 💬 Programming Languages: 
-Other                    40 hrs 18 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.20 % 
-Python                   1 hr 53 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.45 % 
-Markdown                 5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.23 % 
+Other                    38 hrs 37 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.01 % 
+Python                   1 hr 53 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.63 % 
+Markdown                 5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.24 % 
 JSON                     2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.10 % 
 Text                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.01 % 
 ```
@@ -64,7 +62,7 @@ Nushell                  1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArinFaraj/ArinFaraj/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2024 18:36:09 UTC
+ Last Updated on 06/02/2024 18:36:00 UTC
 <!--END_SECTION:waka-->
 [![](https://visitcount.itsvg.in/api?id=arinfaraj&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
