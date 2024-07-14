@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C875%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C882%20hrs%207%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 862 Contributions in the Year 2024
+> 🏆 863 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,11 +40,11 @@ Sunday                   1515 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Baghdad
 
 💬 Programming Languages: 
-Other                    31 hrs 26 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.68 % 
-Dart                     15 hrs 17 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.47 % 
-Lua                      1 hr                ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.07 % 
-Figma Design             23 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.82 % 
-YAML                     10 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.34 % 
+Other                    30 hrs 54 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.77 % 
+Dart                     15 hrs 8 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.75 % 
+Lua                      55 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.92 % 
+Figma Design             16 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.57 % 
+YAML                     10 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.35 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -64,7 +64,7 @@ Smarty                   1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArinFaraj/ArinFaraj/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2024 18:51:13 UTC
+ Last Updated on 14/07/2024 18:57:35 UTC
 <!--END_SECTION:waka-->
 [![](https://visitcount.itsvg.in/api?id=arinfaraj&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
